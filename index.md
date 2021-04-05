@@ -1,5 +1,5 @@
 # Carson Andrijanoff - Design Portfolio
-## I'm a Mechanical Engineering Student at The University of North Carolina Charlotte and this website is a repository for all of my interesting creative endeavors.
+## I'm a Mechanical Engineering Student at The University of North Carolina at Charlotte and this website is a repository for all of my interesting creative endeavors.
 
 
 ### **Solidworks Projects**
