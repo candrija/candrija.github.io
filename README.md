@@ -3,3 +3,7 @@
 ## *A master repository for my personal projects, from suspension components to mechanical keyboards.*
 
 Please visit my github pages website - [HERE](https://candrija.github.io)
+
+
+Pick and Place Robot
+![FullAssembly](higherresfullrend.JPG)
