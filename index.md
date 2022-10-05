@@ -7,7 +7,7 @@
 ![fullergo](ergo_full.PNG)<br/>
 ![carbonseat](Seet.JPG)<br/>
 ![wheelanddash](wheel_and_dash.png)<br/>
-![wheel](Wheel.jpg)<br/>
+![wheel](Wheel.JPG)<br/>
 ![wheelback](wheel2.JPG)<br/>
 + Junior Design - Pick and Place Robot <br/>
     *Extensive Solidworks project to design physical components for an automated pick and place robot for my Spring 2021 Junior Design course.*
