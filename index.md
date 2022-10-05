@@ -1,8 +1,9 @@
-## My name is Carson Andrijanoff<br/>I'm a Mechanical Engineering Student at The University of North Carolina at Charlotte and this website is a repository for all of my interesting creative endeavors.
+## My name is Carson Andrijanoff<br/>I'm a Mechanical Engineering Student at The University of North Carolina at Charlotte and this website is a repository for my creative endeavors.
 
 
 ### **Solidworks Projects**
 + FSAE Ergonomics - 2022-23 Team Lead and 2023-24 Senior Design<br/>
+![caratcomp](49ers.JPG)<br/>
     *Working as 49ers Racing's Ergonomics Lead to design all relevant subsystems for driver inputs, safety, and comfort. Designing seating, steering, safety, and dashboard solutions to ensure the driver is protected and all subsystems are series rules compliant. Current project ongoing throughout UNCC's Mechanical Engineering Senior Design capstone, culminating in FSAE IC Competion in May 2024. Previous team in the 2022-23 season placed 25th overall.*
 ![fullergo](ergo_full.png)<br/>
 ![carbonseat](Seet.JPG)<br/>
