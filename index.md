@@ -4,6 +4,9 @@
 ### **Solidworks Projects**
 + FSAE Ergonomics - 2022-23 Team Lead and 2023-24 Senior Design<br/>
 ![caratcomp](49ers.jpg)<br/>
+2022 49ers Racing FSAE IC Car at MIS<br/>
+![carrender](34.png)<br/>
+2023 49ers Racing FSAE IC Render courtesy of Trent Williams<br/>
     *Working as 49ers Racing's Ergonomics Lead to design all relevant subsystems for driver inputs, safety, and comfort. Designing seating, steering, safety, and dashboard solutions to ensure the driver is protected and all subsystems are series rules compliant. Current project ongoing throughout UNCC's Mechanical Engineering Senior Design capstone, culminating in FSAE IC Competion in May 2024. Previous team in the 2022-23 season placed 25th overall.*
 ![fullergo](ergo_full.png)<br/>
 ![carbonseat](Seet.JPG)<br/>
